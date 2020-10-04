@@ -4,4 +4,4 @@
 ### Diagram of the LSTM used
 ![LSTM](Designs/LSTM&#32;esquema.PNG)
 # Results
-![Original](Results/BombillosTest.PNG =24x48)
+![Original](https://github.com/Danielmagox/TFG-Application-of-machine-learning-techniques-to-a-practical-problem-of-inventory-reple/tree/main/Results/BombillosTest.PNG =24x48)
