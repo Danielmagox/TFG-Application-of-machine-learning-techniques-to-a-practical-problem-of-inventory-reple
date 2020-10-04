@@ -1,6 +1,7 @@
 # LSTM, ARIMA, databases etc... specifications.
 ### Diagram of the database used
 ![Database](Designs/Esquema.PNG)
+All data used in this project are private and property of TITSA (Transportes interurbanos de Tenerife S.A).
 ### Diagram of the LSTM used
 ![LSTM](Designs/LSTM&#32;esquema.PNG)
 # ARIMA Results
