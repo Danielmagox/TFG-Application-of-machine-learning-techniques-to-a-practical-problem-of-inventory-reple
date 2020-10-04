@@ -1,4 +1,4 @@
-# TFG-Application-of-machine-learning-techniques-to-a-practical-problem-of-inventory-reple
+# LSTM, ARIMA, databases etc... specifications.
 ### Diagram of the database used
 ![Database](Designs/Esquema.PNG)
 
