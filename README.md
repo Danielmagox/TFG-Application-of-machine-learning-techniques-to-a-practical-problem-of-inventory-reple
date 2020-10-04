@@ -2,4 +2,6 @@
 ### Diagram of the database used
 ![Database](Designs/Esquema.PNG)
 ### Diagram of the LSTM used
-![Database](Designs/LSTM&#32;esquema.PNG)
+![LSTM](Designs/LSTM&#32;esquema.PNG)
+# Results
+![Original](Results/BombillosTest.PNG | width=100)
