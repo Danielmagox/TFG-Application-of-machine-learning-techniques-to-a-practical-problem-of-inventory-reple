@@ -6,3 +6,7 @@
 # Results
 ### Real case
 ![Original](Results/BombillosTest.PNG)
+### Test case
+![Test](Results/BombillosARIMAFuturo.PNG)
+### 30 day forecast
+![Forecast](Results/BombillosArimaTest.PNG)
