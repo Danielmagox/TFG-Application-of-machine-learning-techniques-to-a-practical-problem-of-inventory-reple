@@ -4,4 +4,4 @@
 ### Diagram of the LSTM used
 ![LSTM](Designs/LSTM&#32;esquema.PNG)
 # Results
-![Original](Results/BombillosTest.PNG | width=100)
+![Original](Results/BombillosTest.PNG =24x48)
